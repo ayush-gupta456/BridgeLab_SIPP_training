@@ -22,6 +22,12 @@ The training roadmap includes:
 - Mini-project (Final integration of concepts)
 
 ---
+🔗 **Live Branch Links:**
+- [🌱 `core_java`](https://github.com/ayush-gupta456/BridgeLab_SIPP_trainig/tree/core_java) – Loops, arrays, conditions
+- [🏛 `oops_fundamentals`](https://github.com/ayush-gupta456/BridgeLab_SIPP_trainig/tree/oops_fundamentals) – Classes, inheritance, abstraction
+- [🛠 `Workshop`](https://github.com/ayush-gupta456/BridgeLab_SIPP_trainig/tree/Workshop) – Java 8, challenges, real-time tasks
+
+---
 
 ## 📂 File Structure
 
@@ -29,7 +35,7 @@ The training roadmap includes:
 .gitignore       → Java-specific Git ignore rules
 README.md        → Overview and training documentation
 Branches:
-  ├── core_java          → Core Java basics and exercises        -> https://github.com/ayush-gupta456/BridgeLab_SIPP_trainig/tree/core_java
-  ├── oops_fundamentals  → Object-Oriented Programming concepts  -> https://github.com/ayush-gupta456/BridgeLab_SIPP_trainig/tree/oops_fundamentals
-  ├── Workshop           → Tasks and workshop exercises          -> https://github.com/ayush-gupta456/BridgeLab_SIPP_trainig/tree/Workshop
+  ├── core_java          → Core Java basics and exercises        
+  ├── oops_fundamentals  → Object-Oriented Programming concepts  
+  ├── Workshop           → Tasks and workshop exercises          
 
