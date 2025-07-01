@@ -5,7 +5,6 @@ This repository is a part of the **BridgeLabz SIPP Java Training Program**, desi
 <p align="center">
   <img src="https://img.shields.io/badge/Java-17-blue.svg" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-informational" />
-  <img src="https://img.shields.io/github/last-commit/ayush-gupta456/BridgeLab_SIPP_trainig" />
 </p>
 
 ---
