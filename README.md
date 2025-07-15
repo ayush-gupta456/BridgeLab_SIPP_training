@@ -25,13 +25,34 @@ The training roadmap includes:
 - Collections framework
 - Java 8 features (Lambdas, Streams)
 - Mini-project (Final integration of concepts)
-
+  
 ---
-🔗 **Live Branch Links:**
-- [🌱 `core_java`](https://github.com/ayush-gupta456/BridgeLab_SIPP_trainig/tree/core_java) – Loops, arrays, conditions
-- [🏛 `oops_fundamentals`](https://github.com/ayush-gupta456/BridgeLab_SIPP_trainig/tree/oops_fundamentals) – Classes, inheritance, abstraction
-- [🛠 `Workshop`](https://github.com/ayush-gupta456/BridgeLab_SIPP_trainig/tree/Workshop) – Java 8, challenges, real-time tasks
 
+## 🔗 Live Branch Links – Overview
+
+Explore the different branches of this repository, each focusing on specific Java topics and skills:
+
+### 🌱 [`core_java`](https://github.com/ayush-gupta456/BridgeLab_SIPP_trainig/tree/core_java)
+- Covers Java programming basics.
+- Topics: loops, conditional statements, arrays.
+- Great for beginners building foundational Java skills.
+
+### 🏛 [`oops_fundamentals`](https://github.com/ayush-gupta456/BridgeLab_SIPP_trainig/tree/oops_fundamentals)
+- Focuses on Object-Oriented Programming.
+- Topics: classes, inheritance, polymorphism, abstraction.
+- Helps in understanding key design concepts.
+
+### 🛠 [`Workshop`](https://github.com/ayush-gupta456/BridgeLab_SIPP_trainig/tree/Workshop)
+- Hands-on coding and advanced Java features.
+- Topics: Java 8 (streams, lambdas), real-time coding challenges.
+- Designed for practical learning and interview prep.
+
+### 📚 [`java_dsa`](https://github.com/ayush-gupta456/BridgeLab_SIPP_training/tree/java_dsa)
+- Covers core Data Structures and Algorithms using Java.
+- Topics: stacks, queues, linked lists, sorting, trees, searching.
+- Perfect for improving logical thinking and coding efficiency.
+
+> ⚙️ **Tip:** Click on any branch link above to explore its source code and progress.
 ---
 
 ## 📂 File Structure
