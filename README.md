@@ -58,10 +58,12 @@ Explore the different branches of this repository, each focusing on specific Jav
 ## 📂 File Structure
 
 ```plaintext
-.gitignore       → Java-specific Git ignore rules
-README.md        → Overview and training documentation
+.gitignore         → Java-specific Git ignore rules  
+README.md          → Overview and training documentation  
 Branches:
-  ├── core_java          → Core Java basics and exercises        
+  ├── core_java          → Core Java basics and exercises  
   ├── oops_fundamentals  → Object-Oriented Programming concepts  
-  ├── Workshop           → Tasks and workshop exercises          
+  ├── Workshop           → Tasks and workshop exercises  
+  └── java_dsa           → Data Structures and Algorithms in Java  
+        
 
