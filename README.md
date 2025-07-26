@@ -41,9 +41,12 @@ The training roadmap includes:
 ```plaintext
 .gitignore       → Java-specific Git ignore rules
 README.md        → Overview and training documentation
+
 Branches:
   ├── core_java          → Core Java basics and exercises        
   ├── oops_fundamentals  → Object-Oriented Programming concepts  
   ├── Workshop           → Tasks and workshop exercises          
-  ├── java_dsa           → Data Structures and Algorithms in Java. (Please update with more specific details).
+  ├── java_dsa           → Data Structures and Algorithms in Java – arrays, linked lists, stacks, queues, recursion, sorting, searching, etc.
+  ├── Generics           → Type-safe and reusable Java components using Generics
+
 
