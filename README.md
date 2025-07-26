@@ -28,10 +28,11 @@ The training roadmap includes:
 
 ---
 🔗 **Live Branch Links:**
-- [🌱 `core_java`](https://github.com/ayush-gupta456/BridgeLab_SIPP_trainig/tree/core_java) – Loops, arrays, conditions
-- [🏛 `oops_fundamentals`](https://github.com/ayush-gupta456/BridgeLab_SIPP_trainig/tree/oops_fundamentals) – Classes, inheritance, abstraction
-- [🛠 `Workshop`](https://github.com/ayush-gupta456/BridgeLab_SIPP_trainig/tree/Workshop) – Java 8, challenges, real-time tasks
-- [💻 `java_dsa`](https://github.com/ayush-gupta456/BridgeLab_SIPP_trainig/tree/java_dsa) – Data Structures and Algorithms in Java.
+- [🌱 `core_java`](https://github.com/ayush-gupta456/BridgeLab_SIPP_trainig/tree/core_java) – Loops, arrays, conditions  
+- [🏛 `oops_fundamentals`](https://github.com/ayush-gupta456/BridgeLab_SIPP_trainig/tree/oops_fundamentals) – Classes, inheritance, abstraction  
+- [🛠 `Workshop`](https://github.com/ayush-gupta456/BridgeLab_SIPP_trainig/tree/Workshop) – Java 8, challenges, real-time tasks  
+- [💻 `java_dsa`](https://github.com/ayush-gupta456/BridgeLab_SIPP_trainig/tree/java_dsa) – Data Structures and Algorithms in Java  
+- [🔢 `Generics`](https://github.com/ayush-gupta456/BridgeLab_SIPP_training/tree/Generics) – Type-safe, reusable Java components using Generics
 
 ---
 
